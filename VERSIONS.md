@@ -7,3 +7,7 @@
     - send messages with version v09u
     - accepts setting offline and online current
     - revert to offline current afater around 5 minutes without server responding
+
+- EMWERK-JB_1_1-1.4.0.28, 2021-04-27T20:39:50Z, ZentriOS-WZ-3.6.4.0
+    - send messages with version v07
+    - 2024-10 apparently does not support offline current configuration, after power cycle returns to the current rating
